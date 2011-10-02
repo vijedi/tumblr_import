@@ -1,0 +1,5 @@
+oauth_key: <<Key>>
+oauth_secret: <<Secret>>
+oauth_callback_url: http://localhost:4567/oauth_callback
+wp_file: <</Users/admin/Desktop/wp_export.xml>>
+base_hostname: <<yourblognamehere>>.tumblr.com

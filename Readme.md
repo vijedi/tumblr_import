@@ -20,3 +20,7 @@ You can obtain a wordpress XML file from  your wordpress administration console.
 1. Tumblr's HTML is more restrictive than Wordpress's. You will lose some formatting from your posts.
 2. This script does not migrate self-hosted images from wordpress.
 3. Tumblr does not natively support comments. They will be lost.
+
+## Acknowledgements
+
+I used [this gist](https://gist.github.com/194339) as a starting point for parsing the wordpress xml and posting to the api.
